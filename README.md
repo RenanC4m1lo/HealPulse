@@ -17,13 +17,9 @@ O protótipo simula os sinais vitais de um paciente e permite trocar entre cená
 
 Cada cenário dispara alertas visuais e sonoros quando os valores saem da faixa segura (frequência cardíaca, SpO2, pressão arterial), igual aconteceria com dados reais vindos de um sensor.
 
-## 👥 Equipe
+## 👤 Autor
 
-- Gustavo Ianetta
-- Matheus Andrade da Silva
-- Renan Augusto Camilo da Costa
-- Vinicius Guimarães Domenice
-- Wiliam Pereira da Silva
+Renan Camilo
 
 **Orientadora:** Waldinelly Martha Alves Costa
 
